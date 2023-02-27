@@ -1,4 +1,5 @@
-# Calculadora
+# Calculadora-JavaScript
+
 Calculadora convencional feita por códigos Java Script.
 Baixe o arquivo e confira a calculadora por inteira!
 ![image](https://user-images.githubusercontent.com/107360437/221448504-7990eda3-5f88-4b3e-9486-37265ba07390.png)
